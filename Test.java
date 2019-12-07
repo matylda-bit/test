@@ -6,6 +6,8 @@ public class Test {
             System.out.print ("Matylda uczy sie gitowac");
             System.out.println ("Wow");
 
+
+            System.out.println ("Wprowadzam zmiane na nowa branch");
         }
     }
 }
