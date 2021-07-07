@@ -2,6 +2,7 @@
 //adasdas
 
 //sobota imieniny kota
+//ciag dalszy imprezy u kota
 
 public class Test {
     public static void main (String [] args) {
